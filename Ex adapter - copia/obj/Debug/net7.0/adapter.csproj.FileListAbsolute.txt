@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\vs proyectos\adapter\bin\Debug\net7.0\adapter.exe
+C:\Users\Gabriel\Documents\vs proyectos\adapter\bin\Debug\net7.0\adapter.deps.json
+C:\Users\Gabriel\Documents\vs proyectos\adapter\bin\Debug\net7.0\adapter.runtimeconfig.json
+C:\Users\Gabriel\Documents\vs proyectos\adapter\bin\Debug\net7.0\adapter.dll
+C:\Users\Gabriel\Documents\vs proyectos\adapter\bin\Debug\net7.0\adapter.pdb
+C:\Users\Gabriel\Documents\vs proyectos\adapter\obj\Debug\net7.0\adapter.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\vs proyectos\adapter\obj\Debug\net7.0\adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\vs proyectos\adapter\obj\Debug\net7.0\adapter.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\vs proyectos\adapter\obj\Debug\net7.0\adapter.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\vs proyectos\adapter\obj\Debug\net7.0\adapter.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\vs proyectos\adapter\obj\Debug\net7.0\adapter.dll
+C:\Users\Gabriel\Documents\vs proyectos\adapter\obj\Debug\net7.0\refint\adapter.dll
+C:\Users\Gabriel\Documents\vs proyectos\adapter\obj\Debug\net7.0\adapter.pdb
+C:\Users\Gabriel\Documents\vs proyectos\adapter\obj\Debug\net7.0\adapter.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\vs proyectos\adapter\obj\Debug\net7.0\ref\adapter.dll
